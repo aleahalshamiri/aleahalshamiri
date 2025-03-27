@@ -6,23 +6,22 @@
 ---
 
 ## 🛠 Tech Stack  
-🔹 **Frontend:** Next.js, React.js, Tailwind CSS, GSAP  
+🔹 **Frontend:** Next.js, React.js, Tailwind CSS , Bootstrap
 🔹 **Backend:** Laravel, Livewire  
-🔹 **Database:** MySQL, PostgreSQL  
+🔹 **Database:** MySQL, PostgreSQL , orcal , sql server
 🔹 **AI & ML:** Reinforcement Learning, Ray, RLlib  
-🔹 **Tools & Platforms:** Git, GitHub, ClickUp, Figma, Adobe Creative Suite  
+🔹 **Tools & Platforms:** Git, GitHub, ClickUp, Adobe Creative Suite  
 
 ---
 
 ## 🔥 Current Focus  
-🔭 **Building web applications with Next.js & React.js**  
+🔭 **Building web applications **  
 📖 **Exploring Reinforcement Learning & Ray**  
 💡 **Studying distributed computing & AI applications in cybersecurity**  
 
 ---
 
-## ✍️ Articles & Research  
-📄 **Master’s Research:** Collaborative Multi-Agent Deep Reinforcement Learning (CMADRL) in Cybersecurity  
+## ✍️ Articles & Research    
 📝 **Blog (Coming Soon):** Insights on Web Development & AI  
 
 ---
