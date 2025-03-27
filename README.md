@@ -16,7 +16,7 @@
 
 ## 🔥 Current Focus  
 🔭 **Building web applications **  
-📖 **Exploring Reinforcement Learning & Ray**  
+📖 **Exploring Reinforcement Learning **  
 💡 **Studying distributed computing & AI applications in cybersecurity**  
 
 ---
