@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Aleah Alshamiri  
+### Software Engineer | Researcher  
 
-<!--
-**aleahalshamiri/aleahalshamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **building modern web applications** and exploring **AI & Reinforcement Learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+🔹 **Frontend:** Next.js, React.js, Tailwind CSS, GSAP  
+🔹 **Backend:** Laravel, Livewire  
+🔹 **Database:** MySQL, PostgreSQL  
+🔹 **AI & ML:** Reinforcement Learning, Ray, RLlib  
+🔹 **Tools & Platforms:** Git, GitHub, ClickUp, Figma, Adobe Creative Suite  
+
+---
+
+## 🔥 Current Focus  
+🔭 **Building web applications with Next.js & React.js**  
+📖 **Exploring Reinforcement Learning & Ray**  
+💡 **Studying distributed computing & AI applications in cybersecurity**  
+
+---
+
+## ✍️ Articles & Research  
+📄 **Master’s Research:** Collaborative Multi-Agent Deep Reinforcement Learning (CMADRL) in Cybersecurity  
+📝 **Blog (Coming Soon):** Insights on Web Development & AI  
+
+---
+
+## 🤝 Let’s Connect!  
+📧 **Email:** aleah.alshamiri@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/aleah-alshmairi-4681b9177](https://www.linkedin.com/in/aleah-alshmairi-4681b9177/)  
+🐙 **GitHub:** [github.com/aleahalshamiri](http://github.com/aleahalshamiri)  
+
+---
+
+## ⚡ Fun Fact  
+I love experimenting with **new technologies** and developing **intelligent solutions** to real-world problems! 🚀  
