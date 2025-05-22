@@ -6,8 +6,8 @@
 
 
 ### 🛠 Tech Stack  
-🔹 **Frontend:** Next.js, React.js, Tailwind CSS , Bootstrap
-🔹 **Backend:** Laravel, Livewire  
+🔹 **Frontend:** Next.js, React.js, Tailwind CSS , Bootstrap , livewire
+🔹 **Backend:** Laravel  
 🔹 **Database:** MySQL, PostgreSQL , orcal , sql server
 🔹 **AI & ML:** Reinforcement Learning, Ray, RLlib  
 🔹 **Tools & Platforms:** Git, GitHub, ClickUp, Adobe Creative Suite  
